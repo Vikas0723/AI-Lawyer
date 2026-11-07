@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+groq
+openai
+sentence-transformers
+faiss-cpu
+numpy
+rank-bm25
+PyMuPDF
+Pillow
